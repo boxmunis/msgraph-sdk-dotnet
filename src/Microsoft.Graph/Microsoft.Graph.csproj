@@ -9,7 +9,7 @@
     <LangVersion>latest</LangVersion>
     <PreserveCompilationContext>false</PreserveCompilationContext>
     <AssemblyName>Microsoft.Graph-EvercareIt</AssemblyName>
-    <PackageId>Microsoft.Graph</PackageId>
+    <PackageId>Microsoft.Graph-EvercareIt</PackageId>
     <PackageTags>Microsoft Office365;Graph;GraphServiceClient;Outlook;OneDrive;AzureAD;GraphAPI;Productivity;SharePoint;Intune;SDK</PackageTags>
     <PackageProjectUrl>https://developer.microsoft.com/graph</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
