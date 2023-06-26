@@ -114,5 +114,7 @@ namespace Microsoft.Graph
 
             return requestAdapter;
         }
+
+        public IRequestAdapter GetRequestAdapter() => RequestAdapter;
     }
 }
