@@ -8,8 +8,8 @@
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <LangVersion>latest</LangVersion>
     <PreserveCompilationContext>false</PreserveCompilationContext>
-    <AssemblyName>Microsoft.Graph-EvercareIt</AssemblyName>
-    <PackageId>Microsoft.Graph-EvercareIt</PackageId>
+    <AssemblyName>Evercare.Microsoft.Graph</AssemblyName>
+    <PackageId>Evercare.Microsoft.Graph</PackageId>
     <PackageTags>Microsoft Office365;Graph;GraphServiceClient;Outlook;OneDrive;AzureAD;GraphAPI;Productivity;SharePoint;Intune;SDK</PackageTags>
     <PackageProjectUrl>https://developer.microsoft.com/graph</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
