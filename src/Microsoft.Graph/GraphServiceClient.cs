@@ -102,7 +102,7 @@ namespace Microsoft.Graph
             if (this.RequestAdapter is IDisposable disposable)
             {
                 disposable.Dispose();
-            }
+            } 
         }
         
         private static IRequestAdapter InitializeRequestAdapterWithBaseUrl(IRequestAdapter requestAdapter, string baseUrl)
@@ -114,7 +114,5 @@ namespace Microsoft.Graph
 
             return requestAdapter;
         }
-
-        public IRequestAdapter GetRequestAdapter() => RequestAdapter;
     }
 }
